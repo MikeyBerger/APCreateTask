@@ -239,7 +239,7 @@ MonoBehaviour:
   Targets:
   - {fileID: 3681164449528251666, guid: 05a33ddbdaa284fd0b3187b2518bf3af, type: 3}
   - {fileID: 7788806198268775368, guid: 219b8db1858644e788aba788b79b6880, type: 3}
-  Center: {x: 0, y: 0, z: 0}
+  Center: {x: 0, y: 8, z: 0}
   Size: {x: 5, y: 5, z: 0}
 --- !u!4 &646504008
 Transform:
